@@ -1,4 +1,10 @@
 # GraduationProject-Backend
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SpringBoot-3.1-green?logo=spring&logoColor=white" alt="Spring Boot">
+</p>
+
 Documentation version of our graduation project: Digital-Based Complaint and Tracking System for Municipalities.
 
 This project is a Spring Boot microservice backend application designed as a Digital Based Complaint and Tracking System for Municipalities. The system ensures that complaints and requests submitted by citizens to the municipality are recorded, tracked and shared with relevant units. The backend side is structured with a microservice architecture, and each module has its own area of ​​responsibility.
